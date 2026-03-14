@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Mar 14 17:35:28 2026
+# Process ID: 26280
+# Current directory: C:/NTHUCS/114Spring/Hardware_design_ZEDboard/Sample code_Lab 1/lab1_hw/lab1_hw.runs/synth_1
+# Command line: vivado.exe -log demo.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source demo.tcl
+# Log file: C:/NTHUCS/114Spring/Hardware_design_ZEDboard/Sample code_Lab 1/lab1_hw/lab1_hw.runs/synth_1/demo.vds
+# Journal file: C:/NTHUCS/114Spring/Hardware_design_ZEDboard/Sample code_Lab 1/lab1_hw/lab1_hw.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source demo.tcl -notrace
